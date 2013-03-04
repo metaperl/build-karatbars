@@ -1,0 +1,5 @@
+- URL to picture of affiliate
+- First name
+- URL to facebook
+- skype id
+- Karatbars affiliate link

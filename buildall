@@ -1,0 +1,8 @@
+#!/bin/bash -x
+
+users="andching lkcglobal supreme tamamintersol"
+
+for user in $users
+do
+        ./build $user
+done
