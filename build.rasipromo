@@ -1,0 +1,13 @@
+#!/bin/bash -x
+
+ttree -a -f /home/schemelab/domains/biz/freegold/www/.ttreerc \
+      --src=template \
+      --dest=$1 \
+      --recurse \
+      --verbose \
+      --define kb_id=$1 \
+      --define image_url=http://blogs-images.forbes.com/afontevecchia/files/2011/11/Gold-Bars-in-Fort-Knox.jpg \
+      --define first_name=Rasi \
+      --define facebook_url=https://www.facebook.com/groups/karatbars.supreme/ \
+      --define skype_id=rasiruss \
+      --define kb_url=http://www.karatbars.com/?s=$1

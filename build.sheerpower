@@ -6,8 +6,8 @@ ttree -a -f /home/schemelab/domains/biz/freegold/www/.ttreerc \
       --recurse \
       --verbose \
       --define kb_id=$1 \
-      --define image_url=http://s3.amazonaws.com/swom/avatars/194870/medium.jpg \
-      --define first_name=Terrence \
+      --define image_url=http://platinumgoldcoins.com/wp-content/uploads/2011/04/US-Dollar-Vs-Gold.png \
+      --define first_name=Phyllis \
       --define facebook_url=https://www.facebook.com/groups/karatbars.supreme \
       --define skype_id=metaperl \
       --define kb_url=http://www.karatbars.com/?s=$1

@@ -9,4 +9,4 @@ script = "./build.{0}".format(target)
 
 import subprocess
 
-subprocess.call([script, target])
+subprocess.call(['bash', script, target])

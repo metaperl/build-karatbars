@@ -1,0 +1,21 @@
+[% first_name %], welcome to Karatbars Supreme Team!
+
+Your affiliate pages are;
+   http://www.FreeGold.biz/[% kb_id %]
+   http://www.FreeGold.biz/[% kb_id %]/goldbars
+
+The first page is the one you will use the most, along with the banners
+you see here - http://kbgoldintro.com/go/nettools/ads.html
+
+The 2nd affiliate page is used with this banner mainly:
+http://www.kbgoldintro.com/go/nettools/gold-bar-admin.jpg
+
+Here are two other banners:
+http://www.kbgoldintro.com/go/nettools/bear2.gif
+http://kbgoldintro.com/popegold.gif
+
+Please join our Facebook Group:
+https://www.facebook.com/groups/karatbars.supreme/
+
+Regards,
+Terrence Brannon ( http://iwantyoutoprosper.com/contact/ )

@@ -1,0 +1,12 @@
+#!/bin/bash -x
+
+ttree -a -f /home/schemelab/domains/biz/freegold/www/.ttreerc \
+      --src=template \
+      --dest=$1 \
+      --recurse \
+      --verbose \
+      --define image_url=http://content.screencast.com/users/metaperl/folders/Jing/media/f63e4494-48ce-4822-8296-327260e19e80/00000087.png \
+      --define first_name=Renee \
+      --define facebook_url=https://www.facebook.com/luckyladygold \
+      --define skype_id=luckbealady2 \
+      --define kb_url=http://www.karatbars.com/?s=$1
